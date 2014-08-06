@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://wayneh.info//sitemap.xml 
+Sitemap: http://wayneh.tw//sitemap.xml 
