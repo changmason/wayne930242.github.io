@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Wayneh and Coffee]]></title>
-  <link href="http://wayne930242.github.io/atom.xml" rel="self"/>
-  <link href="http://wayne930242.github.io/"/>
-  <updated>2014-08-06T09:45:58+00:00</updated>
-  <id>http://wayne930242.github.io/</id>
+  <link href="http://wayneh.info//atom.xml" rel="self"/>
+  <link href="http://wayneh.info//"/>
+  <updated>2014-08-06T12:10:47+00:00</updated>
+  <id>http://wayneh.info//</id>
   <author>
     <name><![CDATA[洪偉]]></name>
     <email><![CDATA[wayne930242@gmail.com]]></email>
