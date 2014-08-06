@@ -4,17 +4,24 @@
   
   
   <url>
-    <loc>http://wayneh.info//</loc>
-    <lastmod>2014-08-06T12:14:54+00:00</lastmod>
+    <loc>http://wayneh.info//blog/archives/</loc>
+    <lastmod>2014-08-06T12:38:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://wayneh.info//blog/archives/</loc>
-    <lastmod>2014-08-06T12:14:54+00:00</lastmod>
+    <loc>http://wayneh.info//posts/</loc>
+    <lastmod>2014-08-06T12:38:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://wayneh.info//</loc>
+    <lastmod>2014-08-06T12:38:28+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
   
   
