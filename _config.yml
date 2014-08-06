@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://wayne930242.github.io
-title: 偉恩與咖啡
-subtitle: 一個哲學部落格
+title: Wayneh and Coffee
+subtitle: 偉恩與咖啡：哲學觀點
 author: 洪偉
 simple_search: https://www.google.com/search
-description:
+description: 透過台灣的哲人的學科外思索，偉恩督促與勉勵自己，誠心地撰寫著我所能企求的、真正的哲學家的評論與著作。
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: wayne930242@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -64,22 +64,22 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: wayne930242@gmail.com
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: wayne930242
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: 洪偉1017
 googleplus_hidden: false
 
 # Pinboard
@@ -91,11 +91,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: wayne930242
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-42752284-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
