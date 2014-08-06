@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Wayneh and Coffee]]></title>
+  <link href="http://wayne930242.github.io/atom.xml" rel="self"/>
+  <link href="http://wayne930242.github.io/"/>
+  <updated>2014-08-06T09:16:56+00:00</updated>
+  <id>http://wayne930242.github.io/</id>
+  <author>
+    <name><![CDATA[洪偉]]></name>
+    <email><![CDATA[wayne930242@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
