@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Wayneh and Coffee]]></title>
-  <link href="http://wayneh.tw//atom.xml" rel="self"/>
+  <title><![CDATA[Category: note | Wayneh and Coffee]]></title>
+  <link href="http://wayneh.tw//blog/categories/note/atom.xml" rel="self"/>
   <link href="http://wayneh.tw//"/>
   <updated>2014-08-07T05:33:29+00:00</updated>
   <id>http://wayneh.tw//</id>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Atlassian Git Tutorials]]></title>
+    <title type="html"><![CDATA[Atlassian git Tutorials]]></title>
     <link href="http://wayneh.tw//blog/2014/08/07/git-tutorials/"/>
     <updated>2014-08-07T05:31:52+00:00</updated>
     <id>http://wayneh.tw//blog/2014/08/07/git-tutorials</id>
