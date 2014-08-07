@@ -4,7 +4,7 @@
   <title><![CDATA[Category: note | Wayneh and Coffee]]></title>
   <link href="http://wayneh.tw//blog/categories/note/atom.xml" rel="self"/>
   <link href="http://wayneh.tw//"/>
-  <updated>2014-08-07T05:48:51+00:00</updated>
+  <updated>2014-08-07T06:36:25+00:00</updated>
   <id>http://wayneh.tw//</id>
   <author>
     <name><![CDATA[洪偉]]></name>
@@ -18,13 +18,17 @@
     <link href="http://wayneh.tw//blog/2014/08/07/git-tutorials/"/>
     <updated>2014-08-07T05:31:52+00:00</updated>
     <id>http://wayneh.tw//blog/2014/08/07/git-tutorials</id>
-    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/XMtH3QZ.png"></p>
+    <content type="html"><![CDATA[<p><img class="<a" src="href="http://i.imgur.com/XMtH3QZ.png">http://i.imgur.com/XMtH3QZ.png</a>"></p>
+
+<h1>參考連結</h1>
 
 <ul>
-  <li><a href="https://www.atlassian.com/git/">Atlassian git Tutorials</a></li>
+<li><a href="https://www.atlassian.com/git/">Atlassian git Tutorials</a></li>
 </ul>
 
+
 <!--more-->
+
 ]]></content>
   </entry>
   
