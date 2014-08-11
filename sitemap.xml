@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://wayneh.tw/blog/2014/08/11/12years/</loc>
+    <lastmod>2014-08-11T10:12:24+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://wayneh.tw/blog/2014/08/07/git-tutorials/</loc>
     <lastmod>2014-08-07T05:31:52+00:00</lastmod>
     <priority>0.8</priority>
@@ -11,21 +17,21 @@
   
   <url>
     <loc>http://wayneh.tw/blog/archives/</loc>
-    <lastmod>2014-08-07T08:03:35+00:00</lastmod>
+    <lastmod>2014-08-11T10:35:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://wayneh.tw/posts/</loc>
-    <lastmod>2014-08-07T08:03:35+00:00</lastmod>
+    <lastmod>2014-08-11T10:35:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://wayneh.tw/</loc>
-    <lastmod>2014-08-07T08:03:35+00:00</lastmod>
+    <lastmod>2014-08-11T10:35:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

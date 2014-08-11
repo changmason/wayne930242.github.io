@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Wayneh and Coffee]]></title>
-  <link href="http://wayneh.tw/atom.xml" rel="self"/>
+  <title><![CDATA[Category: comments | Wayneh and Coffee]]></title>
+  <link href="http://wayneh.tw/blog/categories/comments/atom.xml" rel="self"/>
   <link href="http://wayneh.tw/"/>
   <updated>2014-08-11T10:35:59+00:00</updated>
   <id>http://wayneh.tw/</id>
@@ -53,8 +53,7 @@
 
 <p>對所謂「適性選修」，教育部是這樣說明的：</p>
 
-<blockquote><p>未來大學想讀理工農醫的學生，可以選擇額外4至12學分的理科數學；<br/>想讀商管經濟的同學可以上商科數學，加深加廣專業領域；<br/>至於專攻人文藝術的學生，可以只選修4學分的「生活數學」，或上數學補強選修。</p></blockquote>
-
+<p><blockquote><p>未來大學想讀理工農醫的學生，可以選擇額外4至12學分的理科數學；<br/>想讀商管經濟的同學可以上商科數學，加深加廣專業領域；<br/>至於專攻人文藝術的學生，可以只選修4學分的「生活數學」，或上數學補強選修。</p></blockquote></p>
 
 <p>這樣的說法如果要有道理，那就得滿足這個條件：在所有適性選修的課程中，已充分包含必要的國民數學素養。</p>
 
@@ -79,25 +78,6 @@
 <p>對於十二年國教的數學教育困境來說，最重要的，還是要看到明確的政策評估與具體課綱。要讓社會看到十二年國教數學課綱，是如何理解各項數學能力、數學科目與能力的關聯以及考試重點。</p>
 
 <p>不要好高騖遠地大發「適性教育」宏願，妥善地面對台灣社會現狀、制定最合乎家長學生意願、滿足教師程度以及學校資源分配不均問題的教育政策，並進而解決問題、提升教育水平、與產業進行良好銜接，才是政府眼前最該做的事。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My Git NOTE]]></title>
-    <link href="http://wayneh.tw/blog/2014/08/07/git-tutorials/"/>
-    <updated>2014-08-07T05:31:52+00:00</updated>
-    <id>http://wayneh.tw/blog/2014/08/07/git-tutorials</id>
-    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/XMtH3QZ.png"></p>
-
-<h1>參考連結</h1>
-
-<ul>
-<li><a href="https://www.atlassian.com/git/">Atlassian git Tutorials</a></li>
-</ul>
-
-
-<!--more-->
-
 ]]></content>
   </entry>
   
