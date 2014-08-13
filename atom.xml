@@ -4,7 +4,7 @@
   <title><![CDATA[Wayneh and Coffee]]></title>
   <link href="http://wayneh.tw/atom.xml" rel="self"/>
   <link href="http://wayneh.tw/"/>
-  <updated>2014-08-11T10:35:59+00:00</updated>
+  <updated>2014-08-13T15:48:19+00:00</updated>
   <id>http://wayneh.tw/</id>
   <author>
     <name><![CDATA[洪偉]]></name>
@@ -87,7 +87,93 @@
     <link href="http://wayneh.tw/blog/2014/08/07/git-tutorials/"/>
     <updated>2014-08-07T05:31:52+00:00</updated>
     <id>http://wayneh.tw/blog/2014/08/07/git-tutorials</id>
-    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/XMtH3QZ.png"></p>
+    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/XMtH3QZ.png" alt="git" /></p>
+
+<h1>git repository</h1>
+
+<pre><code>git init
+git clone &lt;repo&gt;
+git config
+</code></pre>
+
+<h1>git 結構的三個視角</h1>
+
+<h2>儲藏</h2>
+
+<h2>歷史</h2>
+
+<h2>遠端</h2>
+
+<h1>儲藏視角下的 git 操作</h1>
+
+<h2>工作區</h2>
+
+<pre><code>git clean
+</code></pre>
+
+<h2>準備區</h2>
+
+<pre><code>git add
+git rm
+</code></pre>
+
+<h2>提交 repo</h2>
+
+<pre><code>git commit
+git checkout --
+</code></pre>
+
+<h2>查看現狀</h2>
+
+<pre><code>git status
+git log
+git diff
+</code></pre>
+
+<h1>歷史視角下的 git 操作</h1>
+
+<pre><code>git branch
+</code></pre>
+
+<h2>checkout!</h2>
+
+<pre><code>git checkout
+</code></pre>
+
+<h2>合併進來</h2>
+
+<pre><code>git merge
+</code></pre>
+
+<h2>提交 repo 的其他方法</h2>
+
+<pre><code>git revert
+git reset
+</code></pre>
+
+<h2>改寫歷史</h2>
+
+<pre><code>git rebase
+git commit --amend
+</code></pre>
+
+<h1>遠端視角下的 git 操作</h1>
+
+<h2>設定遠端</h2>
+
+<pre><code>git remote
+</code></pre>
+
+<h2>接取遠端</h2>
+
+<pre><code>git fetch
+git pull
+</code></pre>
+
+<h2>推上遠端</h2>
+
+<pre><code>git push
+</code></pre>
 
 <h1>參考連結</h1>
 
@@ -97,6 +183,8 @@
 
 
 <!--more-->
+
+
 
 ]]></content>
   </entry>
