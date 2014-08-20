@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://wayneh.info/
+url: http://wayneh.tw
 title: Wayneh and Coffee
 subtitle: 偉恩與咖啡：哲學觀點
 author: 洪偉
 simple_search: https://www.google.com/search
-description: 透過台灣的哲人的學科外思索，偉恩督促與勉勵自己，誠心地撰寫著我所能企求的、真正的哲學家的評論與著作。
+description: 我是洪偉 (Wayneh, WeiHung) ，這是一個哲學部落格。雖然是這樣，除了「推廣哲學」以外，我也會在這裡寫一些關於哲學應用的文章。哲學與文學、與各學科、與社會人生，甚至在實務方面的思索，都是偉恩與咖啡的主題之一。還有一些有的沒有的筆記。
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -91,7 +91,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: wayne930242
+disqus_short_name: waynehtw
 disqus_show_comment_count: false
 
 # Google Analytics
